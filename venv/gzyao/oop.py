@@ -236,6 +236,15 @@ white.set_score(99)
 
 # 继承 和多态
 
+# 在OOP程序设计中，当我们定义一个class的时候，可以从某个现有的class继承，
+# 新的class称为子类（Subclass），而被继承的class称为基类、父类或超类（Base class、Super class）。
+# 比如，我们已经编写了一个名为Animal的class，有一个run()方法可以直接打印：
+class Animal(object):
+    def run(self):
+        print "Animal is running"
+        
+
+
 
 
 

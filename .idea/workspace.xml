@@ -42,8 +42,8 @@
       <file leaf-file-name="oop.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/gzyao/oop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="240" lean-forward="true" selection-start-line="240" selection-end-line="240" />
+            <state relative-caret-position="172">
+              <caret line="238" column="2" selection-start-line="238" selection-start-column="2" selection-end-line="238" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -62,6 +62,9 @@
       <find>Alex</find>
       <find>instan</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,6 +99,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -298,9 +302,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32946634" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3191721" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31952018" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32897604" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110341154" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -711,8 +715,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/gzyao/oop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="240" lean-forward="true" selection-start-line="240" selection-end-line="240" />
+        <state relative-caret-position="172">
+          <caret line="238" column="2" selection-start-line="238" selection-start-column="2" selection-end-line="238" selection-end-column="2" />
         </state>
       </provider>
     </entry>
