@@ -7,10 +7,7 @@
     <bookmark url="file://$PROJECT_DIR$/venv/gzyao/oop.py" line="247" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="855ad6ba-eb5f-4de1-b433-18703e32b733" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/gzyao/oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/gzyao/oop.py" afterDir="false" />
-    </list>
+    <list default="true" id="855ad6ba-eb5f-4de1-b433-18703e32b733" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,17 +17,18 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/FirstTest$python.coverage" NAME="python Coverage Results" MODIFIED="1526451339812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FirstTest$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1529201476626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/test" />
     <SUITE FILE_PATH="coverage/FirstTest$practice7.coverage" NAME="practice7 Coverage Results" MODIFIED="1529290562932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/test" />
+    <SUITE FILE_PATH="coverage/FirstTest$oop_high_level.coverage" NAME="oop_high_level Coverage Results" MODIFIED="1529413088161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/gzyao" />
     <SUITE FILE_PATH="coverage/FirstTest$practice4.coverage" NAME="practice4 Coverage Results" MODIFIED="1529204996491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/test" />
+    <SUITE FILE_PATH="coverage/FirstTest$future.coverage" NAME="future Coverage Results" MODIFIED="1529305699950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/gzyao" />
+    <SUITE FILE_PATH="coverage/FirstTest$hello.coverage" NAME="hello Coverage Results" MODIFIED="1529294055722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/gzyao" />
+    <SUITE FILE_PATH="coverage/FirstTest$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1529201445767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/test" />
+    <SUITE FILE_PATH="coverage/FirstTest$oop.coverage" NAME="oop Coverage Results" MODIFIED="1529411536772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/gzyao" />
+    <SUITE FILE_PATH="coverage/FirstTest$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1529201476626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/test" />
     <SUITE FILE_PATH="coverage/FirstTest$practice5.coverage" NAME="practice5 Coverage Results" MODIFIED="1529225338433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/test" />
     <SUITE FILE_PATH="coverage/FirstTest$practice.coverage" NAME="practice Coverage Results" MODIFIED="1528884855797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/test" />
     <SUITE FILE_PATH="coverage/FirstTest$practice6.coverage" NAME="practice6 Coverage Results" MODIFIED="1529290341820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/test" />
-    <SUITE FILE_PATH="coverage/FirstTest$future.coverage" NAME="future Coverage Results" MODIFIED="1529305699950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/gzyao" />
     <SUITE FILE_PATH="coverage/FirstTest$practice3.coverage" NAME="practice3 Coverage Results" MODIFIED="1529202085965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/test" />
-    <SUITE FILE_PATH="coverage/FirstTest$hello.coverage" NAME="hello Coverage Results" MODIFIED="1529294055722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/gzyao" />
-    <SUITE FILE_PATH="coverage/FirstTest$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1529201445767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/test" />
-    <SUITE FILE_PATH="coverage/FirstTest$oop.coverage" NAME="oop Coverage Results" MODIFIED="1529331244284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/gzyao" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -43,11 +41,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="oop.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="oop.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/gzyao/oop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="508" lean-forward="true" selection-start-line="508" selection-end-line="508" />
+            <state relative-caret-position="346">
+              <caret line="519" column="21" selection-start-line="519" selection-start-column="21" selection-end-line="519" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oop_high_level.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/gzyao/oop_high_level.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/gzyao/hello.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -86,6 +102,7 @@
         <option value="$PROJECT_DIR$/venv/gzyao/third_pack.py" />
         <option value="$PROJECT_DIR$/venv/gzyao/future.py" />
         <option value="$PROJECT_DIR$/venv/gzyao/oop.py" />
+        <option value="$PROJECT_DIR$/venv/gzyao/oop_high_level.py" />
       </list>
     </option>
   </component>
@@ -153,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.oop">
+  <component name="RunManager" selected="Python.oop_high_level">
     <configuration name="future" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,7 +228,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="practice6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oop_high_level" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,12 +236,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/gzyao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/test/practice6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/gzyao/oop_high_level.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,19 +287,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.python" />
-      <item itemvalue="Python.practice6" />
       <item itemvalue="Python.practice7" />
       <item itemvalue="Python.hello" />
       <item itemvalue="Python.future" />
       <item itemvalue="Python.oop" />
+      <item itemvalue="Python.oop_high_level" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.oop_high_level" />
         <item itemvalue="Python.oop" />
         <item itemvalue="Python.future" />
         <item itemvalue="Python.hello" />
         <item itemvalue="Python.practice7" />
-        <item itemvalue="Python.practice6" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +326,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32946634" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31952018" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32824427" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110341154" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
@@ -367,13 +384,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/364790536/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="313" column="43" lean-forward="true" selection-start-line="313" selection-start-column="43" selection-end-line="313" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/gzyao/future.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1342">
@@ -710,17 +720,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/gzyao/hello.py">
+    <entry file="file://$PROJECT_DIR$/venv/gzyao/oop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="346">
+          <caret line="519" column="21" selection-start-line="519" selection-start-column="21" selection-end-line="519" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/gzyao/oop.py">
+    <entry file="file://$PROJECT_DIR$/venv/gzyao/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="508" lean-forward="true" selection-start-line="508" selection-end-line="508" />
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/gzyao/oop_high_level.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
